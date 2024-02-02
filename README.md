@@ -2,9 +2,8 @@
 - 👀 I’m interested in Kubernetes,Docker,Envoy & also in programming languages (Go,Java,Python,HTML,Java-Script)
 - 🌱 I’m currently learning YAML,Java & DevOps,Computer Networking
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me You can connect through socials 
+- 📫 You can connect me through linkedin 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've just started DevOps and really looking forward to contribute to the open source projects
 
 <!---
 YogeshK34/YogeshK34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
