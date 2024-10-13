@@ -26,8 +26,8 @@ I'm **Yogesh Khutwad**, a passionate Full Stack Developer who loves turning idea
 ![Yogesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogeshK34&show_icons=true&theme=radical)
 
 ## 🌍 Let's Connect!
-- **Email**: [your-email@example.com](mailto:khutwadyogesh34@gmail.com)
-- **Twitter**: [Your Twitteer Profile]((https://twitter.com/yogeshkhutwad34/))
+- **Email**: [khutwadyogesh34@gmail.com](mailto:khutwadyogesh34@gmail.com)
+- **Twitter**: [@yogeshkhutwad34](https://twitter.com/yogeshkhutwad34)
 
 I'm always open to exciting collaborations, project ideas, or just a friendly tech chat. Let's create something amazing together!
 
