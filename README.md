@@ -17,7 +17,7 @@ I'm a passionate **Full-Stack Developer** with expertise spanning **Web3**, **We
 - 🌱 Always learning and exploring new technologies
 - 👯 Looking to collaborate on **Web3, Web2, and DevOps projects**
 - 💬 Ask me about **Blockchain, Web Development, DevOps, Cloud Infrastructure**
-- 📫 Reach me at **[your.email@example.com]**
+- 📫 Reach me at **[khutwadyogesh34@gmail.com]**
 
 ## 🛠️ Tech Stack
 
@@ -48,16 +48,6 @@ Linux • Bash • CI/CD • Microservices
 PostgreSQL • MongoDB • Redis • MySQL
 Git • Docker • Postman • Figma
 ```
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ## 🏆 Featured Projects
 
@@ -117,9 +107,9 @@ graph LR
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yogeshk34)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-khutwad-0178b3250)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yogeshk0616)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bento.me/yogesh-khutwad)
 
 </div>
